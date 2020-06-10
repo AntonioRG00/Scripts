@@ -1,5 +1,11 @@
 #!/bin/bash
 
+if [ $# -eq 0 ]
+then
+	echo "No se ha introducido ningún parámetro, saliendo"
+	exit 1
+fi
+
 #Array with the id of the process to kill
 targets=($(ps -e | egrep -w $1 | cut -d " " -f3))
 
