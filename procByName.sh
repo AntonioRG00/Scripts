@@ -1,8 +1,8 @@
 #!/bin/bash
 
-if [ $# -eq 0 ]
+if [ $# != 1 ]
 then
-	echo "No se ha introducido ningún parámetro, saliendo"
+	echo "Número de parámetros introducido incorrecto, saliendo"
 	exit 1
 fi
 
