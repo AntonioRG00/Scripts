@@ -8,7 +8,7 @@ Mata todos los procesos que coincidan con el pasado por parámetro
 
 1. Creamos un directorio, yo en mi caso será oculto con el nombre ".scripts" en mi ruta personal del usuario
 
-> mkdir ~/.scripts | cd .scripts
+> mkdir ~/.scripts | ~/cd .scripts
 
 2. Nos descargamos el script y lo movemos al directorio .scripts
 
