@@ -23,3 +23,7 @@ Mata todos los procesos que coincidan con el pasado por parámetro
 5. 'Recargamos' el bashrc y listo
 
 > . ~/.bashrc
+
+6. Ejemplo
+
+> matar firefox
