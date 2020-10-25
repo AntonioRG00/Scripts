@@ -1,6 +1,10 @@
 # Scripts
 Scripts de Linux
 
+# nmap.sh
+Analiza un segmento de red pasado por parámetro con NMAP
+[Link al ejemplo](https://www.youtube.com/watch?v=uak82CQdEmg).
+
 # procByName.sh
 Mata todos los procesos que coincidan con el pasado por parámetro
 
